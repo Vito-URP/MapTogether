@@ -1,6 +1,6 @@
 # MapTogether for SA-MP
 
-A free map editor for SA-MP and open.mp. We originally made it for mappers on our own SA-MP server and figured other people could use it too.
+A free map editor for SA-MP and open.mp. We've originally made it for mappers on our own SA-MP server and figured other people could use it too.
 
 **[Download it here](../../releases/latest)** for Windows or Android. It updates itself after that.
 
