@@ -1,44 +1,30 @@
 # MapTogether for SA-MP
 
-A free map editor for SA-MP and open.mp, made by Vito (Unity Roleplay).
+A free map editor for SA-MP and open.mp, made by Vito (Unity Roleplay). We made it for the mappers on our server and figured other people could use it too.
 
-**[Download the latest version](../../releases/latest)** for Windows or Android. It updates itself after that.
+**[Download it here](../../releases/latest)** for Windows or Android. It updates itself after that.
 
-![Three people building a beach house together](images/coop.webp)
+![MapTogether](images/coop.webp)
 
-It reads your own GTA San Andreas folder. No game files come with it and nothing from your game gets uploaded.
+You point it at your GTA San Andreas folder and it loads the whole map from there. It doesn't come with any game files and nothing from your game gets uploaded.
 
-## What it does
+- Co-op, so you and your friends can work on the same map at the same time
+- Hook up your own Claude account (the free version also works) and ask it to build stuff
+- A test button that starts a local open.mp server with your map in it
+- Textures and material text
+- Object browser with a preview of every model
+- Room generator, placing along paths, arrays, stairs and much more
+- Imports Pawn, Texture Studio and MTA maps
+- Exports CreateDynamicObject and CreateObject code
 
-- **Co-op.** Work on the same map with your friends at the same time, with chat.
-- **Claude.** Connect your own Claude account, a free one works, and tell it what to build. It places the objects in the editor while you watch and you can undo every change.
-- **Test in game.** One button starts a private open.mp server on your PC with your map in it and opens GTA.
-- **The whole map** from your game files, with LODs, water and SA-MP's objects.
-- **Textures and text on objects.** Click a part of an object and pick any texture from the game.
-- **Object browser** with a picture of every model. Search by id, name, texture or category.
-- **Build tools.** Snap to objects, place along a path, arrays, rings, stairs and a room generator.
-- **Buildings.** Remove GTA buildings or swap one for a copy you can edit.
-- **Vehicles** with colours, and objects attached to them.
-- **Import** Pawn code, Texture Studio maps and MTA maps.
-- **Export** CreateDynamicObject or CreateObject code, ready to paste.
-- **Prefabs** you can save, share as files and place again.
+![Textures](images/textures.webp)
 
-![The texture picker](images/textures.webp)
+![Object browser](images/objects.webp)
 
-![The Objects panel](images/objects.webp)
+![Claude](images/claude.webp)
 
-![A bar built by Claude](images/claude.webp)
+You need Windows 10 or 11, GTA San Andreas for PC and the SA-MP or open.mp client. Windows will probably warn you the first time you open it. Press "More info" and then "Run anyway".
 
-## What you need
+You need to link your Discord for co-op and Claude. The rest works without an account.
 
-Windows 10 or 11, GTA San Andreas for PC and the SA-MP or open.mp client. The Android version works on phones and tablets, with or without GTA San Andreas on the device.
-
-Windows may warn you the first time you open it. Press "More info" and then "Run anyway". Each release lists the SHA-256 of its files so you can check your copy.
-
-Co-op and Claude need a linked Discord account. The rest works without an account.
-
-## Help
-
-Bugs, ideas and questions go on [Discord](https://discord.gg/4dCqKAmYXw). More about the editor is at [unityrp.net/maptogether](https://unityrp.net/maptogether).
-
-This repository holds the downloads only. MapTogether is not affiliated with Rockstar Games or Take-Two Interactive.
+If you run into a bug let us know on [Discord](https://discord.gg/4dCqKAmYXw). This repo only has the downloads. MapTogether is not affiliated with Rockstar Games or Take-Two Interactive.
