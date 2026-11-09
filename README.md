@@ -8,12 +8,12 @@ A free map editor for SA-MP and open.mp, made by Vito (Unity Roleplay). We made 
 
 You point it at your GTA San Andreas folder and it loads the whole map from there. It doesn't come with any game files and nothing from your game gets uploaded.
 
-- Co-op, so you and your friends can work on the same map at the same time
-- Hook up your own Claude account (the free version also works) and ask it to build stuff
+- Co-op, meaning you and your friends can work on the same map at the same time
+- Link up your own Claude account (the free version also works) and ask it to build for you
 - A test button that starts a local open.mp server with your map in it
-- Textures and material text
-- Object browser with a preview of every model
-- Room generator, placing along paths, arrays, stairs and much more
+- Supports textures and material text
+- Smart object browser with a preview of every model
+- Room generator, placing along paths, arrays, stairs tools and much more
 - Imports Pawn, Texture Studio and MTA maps
 - Exports CreateDynamicObject and CreateObject code
 
