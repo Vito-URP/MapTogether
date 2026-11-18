@@ -59,7 +59,11 @@ You need to link your Discord for co-op and Claude. The rest works without an ac
 - Snap to objects, mirror, move the pivot, drop to the ground or onto a surface
 - Measure tool, lasso select, groups and prefabs
 - Remove buildings from the original map
+- Your own models: bring in .dff/.txd, or .obj, .glb and .fbx, and they export ready for your server
+- Make it my model: turn any GTA building into your own model in the same spot and paint each surface, glass floors included (0x99FFFFFF)
+- Set up the toolbar the way you like: pick which tools show and in what order
 - Undo and redo for everything
+- In English, Spanish, Portuguese and Russian
 
 ![Object browser](images/objects.webp)
 
